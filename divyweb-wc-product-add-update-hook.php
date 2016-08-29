@@ -13,7 +13,7 @@
  * "How do I notify customers when a new product is added to my store?"
  *
  * This demo will show that woocommerce products are handled as custom
- * post types. The site admin will be emailed with a product is added
+ * post types. The site admin will be emailed when a product is added
  * or updated.
  *
  * Autosave is essentially unavoidable and modern wordpress does a lot
